@@ -7,6 +7,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 <img width="12" />
 ## Video Demo
+🎥 Here you can find a video of the working project
+
+--Will be uploaded soon--
 
 
 ## Prerequisites
@@ -45,4 +48,9 @@ Finally run the app.py file
 
 ## Project Outlook
 <br>
+
+![Screenshot 2024-09-17 230014](https://github.com/user-attachments/assets/98087b25-63ef-4790-8879-bdee416f38e4)
+
+![Screenshot 2024-09-17 230152](https://github.com/user-attachments/assets/ef40aaa4-4e8a-4dea-8593-a62d515d03d6)
+
 
