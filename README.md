@@ -7,41 +7,41 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 <img width="12" />
 ## Video Demo
-🎥 Here you can find a video of the working project
+🎥 Here you can find a video of the working project.
 
 https://github.com/user-attachments/assets/906d958b-0313-4a55-8096-5772ad81ee16
 
 
 ## Prerequisites
 
-Install Python on your system 👉 [Python](https://www.python.org/downloads/)
+Install Python on your system 👉 [Python](https://www.python.org/downloads/).
 <br><br>
-Install Tesseract ocr on your system 👉 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and paste the intallation path in **Environment Variables > System Variables > Path**
+Install Tesseract ocr on your system 👉 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and paste the intallation path in **Environment Variables > System Variables > Path**.
 
 ## Deployment
 
-To run this project first clone this repository using
+To run this project first clone this repository using:
 
 ```bash
   git clone https://github.com/aka-Harsh/Vehicle-Plate-Detector.git
 ```
-Locate this repository using terminal and then create a virtual enviroment and activate it using
+Locate this repository using terminal and then create a virtual enviroment and activate it using:
 
 ```bash
   python -m venv venv
   venv\Scripts\activate
 ```
-Perform this in your VScode editor to select python intepreter
+Perform this in your VScode editor to select python intepreter:
 ```bash
   Select View > Command Palette > Python: Select Interpreter > Enter Interpreter path > venv > Script > python.exe
 ```
 
-Install all the required packages 
+Install all the required packages:
 ```bash
   pip install -r requirements.txt
 ```
 
-Finally run the app.py file
+Finally run the app.py file:
 ```bash
   python app.py
 ```
